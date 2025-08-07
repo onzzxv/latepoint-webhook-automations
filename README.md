@@ -80,6 +80,4 @@ This integration was built with patience, dedication, and help from:
 
 If this helps you or your business, feel free to share improvements or give credit. If you have any questions or need help, I’m happy to support you too. Just open an issue or send a message.
 
-Thank you,  
-**Gabriel Guedes**  
-📧 gabriel.hrz@outlook.com  
+Thank you.
